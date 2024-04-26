@@ -1,4 +1,4 @@
-# Linux Foundation Coupons (Updated For Marsh 2024)
+# Linux Foundation Coupons (Updated For April 2024)
 
 Looking for the latest Linux Foundation coupons codes? We got you covered.
 
@@ -6,16 +6,43 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Follwing are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
-## [50% OFF] Linux Foundation Kubernetes Certification  , Mar 11, 2024 – Mar 19, 2024 !
+## [40% OFF] Linux Foundation Site Wide Tech Talent Sale
 
--  CKAD VOUCHER $395 --> $296
--  CKA VOUCHER $395 --> $296
--  CKS VOUCHER $395 --> $296
-Coupon: use code LUCK24CC at checkout
+Get flat 40% off on Certifications and bundles using the exclusive Tech Talent sale.
 
-https://teckbootcamps.com/linux-foundation-coupons/
+Use code **TECHTALENT2024CT** at [kube.promo/devops](https://kube.promo/devops)
 
-## [50% OFF] Linux Foundation Leap into Learnings Sale
+The following are the best bundles to **save upto $788** with code **TECHTALENT2024CT**
+
+- KCNA + KCSA + CKA + CKAD + CKS ($788 Savings): [kube.promo/kubestronaut](https://teckbootcamps.com/go/kube-promo-kubestronaut/)
+- CKA + CKAD + CKS Exam bundle ($506 Savings): [kube.promo/k8s-bundle](https://teckbootcamps.com/go/kube-promo-k8s-bundle/)
+- CKA + CKS Bundle ($355 Savings): [kube.promo/bundle](https://teckbootcamps.com/go/kube-promo-bundle/)
+- KCNA + CKA ( $288 Savings): [kube.promo/kcka-bundle](https://teckbootcamps.com/go/kube-promo-kcka-bundle/)
+- KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://teckbootcamps.com/go/kube-promo-kcsa-cks/)
+- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://teckbootcamps.com/go/kube-promo-kcna-kcsa/)
+
+
+## 20% OFF Linux Foundation Site-Wide Discount
+
+Get 20% discount on all the Linux Foundation certifications, trainings, Skillcreds and IT Professional programs
+
+**Coupon Code:** TECK20 
+
+**Redeem here:** [kube.promo/devops](https://teckbootcamps.com/go/kubernetes-exams/)
+
+Following are the best saving options for DevOps Engineers 🚀
+
+From the offer page, carefully select the offer your need.
+
+- CKAD : http://shrsl.com/4a08k
+- CKA :  http://shrsl.com/4a08p
+- CKA : http://shrsl.com/4a08r
+
+
+> You can also check the [Linux Foundation Coupon](https://teckbootcamps.com/linux-foundation-coupons/) blog for exclusive coupons
+> 
+
+## [50% OFF] Linux Foundation Leap into Learnings Sale [Expired]
 
 As part of ean exclusive Linux Foundation leap in to learnings sale get flat 50% discount on e-Learning Courses, Certifications, SkillCreds & IT Professional Programs.
 
@@ -34,24 +61,6 @@ The following are the best bundles to **save Extra 50% Discount** with code **LE
 **Restrictions:** This promotion is available to anyone who purchases the above-mentioned products with an applicable coupon between February 20, 2024, and February 29, 2024, 23:59 UTC. It is not valid for any other combination of courses or certifications. Promotional price limited to individual purchases ONLY. Offer not valid with any other discount combinations. Offer does not include THRIVE-ONE subscriptions or any FinOps courses and certifications.
 
 
-## 20% OFF Linux Foundation Site-Wide Discount
-
-Get 20% discount on all the Linux Foundation certifications, trainings, Skillcreds and IT Professional programs
-
-**Coupon Code:** TECK20 
-
-**Redeem here:** [kube.promo/devops](https://shareasale.com/r.cfm?b=734319&u=3441847&m=59485&urllink=training%2Elinuxfoundation%2Eorg%2Fcertification%2Dcatalog%2F&afftrack=TECK20)
-
-Following are the best saving options for DevOps Engineers 🚀
-
-From the offer page, carefully select the offer your need.
-
-- CKAD : http://shrsl.com/4a08k
-- CKA :  http://shrsl.com/4a08p
-- CKA : http://shrsl.com/4a08r
-
-
-> You can also check the [Linux Foundation Coupon](https://teckbootcamps.com/linux-foundation-coupons/) blog for exclusive coupons
 
 ## 50% OFF CKA / CKS  Coupon
 
