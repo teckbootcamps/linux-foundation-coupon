@@ -31,16 +31,20 @@ Hurry Up: Offer Ends Soon.
 -  Kubernetes KCNA $250  —> $175 : [kube.promo/KCNA](https://shrsl.com/4nfid)
 -  Kubernetes KCSA $250  —> $175 : [kube.promo/KCSA](https://shrsl.com/4nfjq)
 -  ISTIO CERTIFIED ASSOCIATE $250  —> $175 : [kube.promo/istio](https://shrsl.com/4nfju)
--  CKA + CKS  $725  —> $507 : [kube.promo/cka-cks](https://shrsl.com/4j3ov)
--  CKA + CKAD + CKS $1095  —> $766 : [kube.promo/cka-ckad-cks](https://shrsl.com/4j3oy)
--  KCNA + KCSA + CKA + CKAD + CKS $1495  —> $1046 : [kube.promo/kubestronaut](https://shrsl.com/4j3p6) 
+-  CKA + CKS  $725  —> $507 : [kube.promo/cka-cks](https://teckbootcamps.com/go/kube-promo-bundle/)
+-  CKA + CKAD + CKS $1095  —> $766 : [kube.promo/cka-ckad-cks](https://teckbootcamps.com/go/kube-promo-k8s-bundle/)
+-  KCNA + KCSA + CKA + CKAD + CKS $1495  —> $1046 : [kube.promo/kubestronaut](https://teckbootcamps.com/go/kube-promo-kubestronaut/) 
+-  KCNA + CKA ( $288 Savings): [kube.promo/kcka-bundle](https://teckbootcamps.com/go/kube-promo-kcka-bundle/)
+-  KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://teckbootcamps.com/go/kube-promo-kcsa-cks/)
+-  KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://teckbootcamps.com/go/kube-promo-kcna-kcsa/)
+
 
 >  Coupon: use code **TECK30** at checkout 
 Hurry Up: Offer Ends Soon.  
 
 
-> Announcement: The CKA exam syllabus will be updated on November 25th, 2024. Read our CKA exam update [blog] (https://teckbootcamps.com/cka-exam-update-new-features-and-removed-content-explained/) to learn more.
-The CKS exam syllabus will change starting October 10th, 2024. Check out our CKS exam update [blog] (https://teckbootcamps.com/cks-exam-update-whats-new-whats-removed/) for more details.
+> Announcement: The CKA exam syllabus will be updated on November 25th, 2024. Read our CKA exam update [blog](https://teckbootcamps.com/cka-exam-update-new-features-and-removed-content-explained/) to learn more.
+The CKS exam syllabus will change starting October 10th, 2024. Check out our CKS exam update [blog](https://teckbootcamps.com/cks-exam-update-whats-new-whats-removed/) for more details.
 If you’re planning to take the CKA or CKS certification and are looking for a discount, take advantage of this offer to get the best deal on CKA or CKS coupons.
 
 
