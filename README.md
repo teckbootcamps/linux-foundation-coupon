@@ -17,7 +17,7 @@ As a certified CKAD, CKA, CKS professional, I am committed to assisting you in o
 > Note: We update the Linux Foundation certification offers every month based on official notifications from the Linux Foundation. Feel free to bookmark this page to stay updated with the latest coupons.
 
 
-## [30% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS)
+## 💰💰 [30% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS)
 
 Save 30% using Coupon code **TECK30** on all the Linux Foundation training and certification programs. This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
 
@@ -45,6 +45,14 @@ If you’re planning to take the CKA or CKS certification and are looking for a 
 
 
 >Note: You have one year of validity to appear for the certification exam after registration
+
+
+## Kubernetes Certification CKAD CKA CKS 
+
+- [CKAD Study Guide 2024 ](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
+- [CKA Study Guide 2024 ](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
+- [CKS Study Guide 2024 ](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
+
 
 ## Recomended Linux Foundation Cerifications
 
