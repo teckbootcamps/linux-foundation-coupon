@@ -7,13 +7,6 @@ In this page you will get CKA , CKAD and CKS discount code for 2024 but also oth
 As a certified CKAD, CKA, CKS professional, I am committed to assisting you in obtaining kubernetes exam voucher at a significantly reduced price, saving you hundreds of dollars.
 
 
-## Discover more about me here:
-
-* 👨 🇹🇳 [Aboute ME : Mohamed BEN HASSINE](https://teckbootcamps.com/about-me/)<sup>Blog</sup>
-* 👨 [Contact ME in LinkedIn ](https://www.linkedin.com/in/mohamedbnhassine/)<sup>LinkedIn</sup>
-
-![](assets/me.webp)
-
 > Note: We update the Linux Foundation certification offers every month based on official notifications from the Linux Foundation. Feel free to bookmark this page to stay updated with the latest coupons.
 
 
