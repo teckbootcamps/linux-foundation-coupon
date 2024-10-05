@@ -9,6 +9,17 @@ As a certified CKAD, CKA, CKS professional, I am committed to assisting you in o
 
 > Note: We update the Linux Foundation certification offers every month based on official notifications from the Linux Foundation. Feel free to bookmark this page to stay updated with the latest coupons.
 
+## 💰💰 [40% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS)  TWO DAYS ONLY | October 8-9
+
+Save 40% using Coupon code **OCTPRIME24** on all the Linux Foundation training and certification programs. This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
+
+-  Kubernetes CKAD VOUCHER ($395 —> $237): [kube.promo/ckad](https://teckbootcamps.com/go/ckad-exam-2024/)
+-  Kubernetes CKA VOUCHER ($395 —> $237): [kube.promo/cka](https://teckbootcamps.com/go/cka-exam-2024/)
+-  Kubernetes CKS VOUCHER ($395 —> $237): [kube.promo/cks](https://teckbootcamps.com/go/cks-exam-2024/)
+
+>  Coupon: use code **OCTPRIME24** at checkout 
+Hurry Up: Offer Ends Soon. TWO DAYS ONLY | October 8-9
+
 
 ## 💰💰 [30% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS)
 
