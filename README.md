@@ -9,19 +9,33 @@ As a certified CKAD, CKA, CKS professional, I am committed to assisting you in o
 
 > Note: We update the Linux Foundation certification offers every month based on official notifications from the Linux Foundation. Feel free to bookmark this page to stay updated with the latest coupons.
 
-## 💰💰 [40% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS)  TWO DAYS ONLY | October 8-9
 
-Save 40% using Coupon code **OCTPRIME24** on all the Linux Foundation training and certification programs. This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
+## 💰💰 [40% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS) : Offer valid from 15 to 22 October, 2024
+
+Save 40% using Coupon code **OCT24CYBER** on all the Linux Foundation training and certification programs. This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
 
 -  Kubernetes CKAD VOUCHER ($395 —> $237): [kube.promo/ckad](https://teckbootcamps.com/go/ckad-exam-2024/)
 -  Kubernetes CKA VOUCHER ($395 —> $237): [kube.promo/cka](https://teckbootcamps.com/go/cka-exam-2024/)
 -  Kubernetes CKS VOUCHER ($395 —> $237): [kube.promo/cks](https://teckbootcamps.com/go/cks-exam-2024/)
 
->  Coupon: use code **OCTPRIME24** at checkout 
-Hurry Up: Offer Ends Soon. TWO DAYS ONLY | October 8-9
+>  Coupon: use code **OCT24CYBER** at checkout 
+Hurry Up: Offer Ends Soon.  
+
+-  Kubernetes KCNA $250  —> $150 : [kube.promo/KCNA](https://shrsl.com/4nfid)
+-  Kubernetes KCSA $250  —> $150 : [kube.promo/KCSA](https://shrsl.com/4nfjq)
+-  ISTIO CERTIFIED ASSOCIATE $250  —> $150 : [kube.promo/istio](https://shrsl.com/4nfju)
+-  CKA + CKS  $725  —> $435 : [kube.promo/cka-cks](https://teckbootcamps.com/go/kube-promo-bundle/)
+-  CKA + CKAD + CKS $1095  —> $657 : [kube.promo/cka-ckad-cks](https://teckbootcamps.com/go/kube-promo-k8s-bundle/)
+-  KCNA + KCSA + CKA + CKAD + CKS $1495  —> $897 : [kube.promo/kubestronaut](https://teckbootcamps.com/go/kube-promo-kubestronaut/) 
+-  KCNA + CKA ( $288 Savings): [kube.promo/kcka-bundle](https://teckbootcamps.com/go/kube-promo-kcka-bundle/)
+-  KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://teckbootcamps.com/go/kube-promo-kcsa-cks/)
+-  KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://teckbootcamps.com/go/kube-promo-kcna-kcsa/)
 
 
-## 💰💰 [30% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS)
+>  Coupon: use code **OCT24CYBER** at checkout 
+Hurry Up: Offer Ends Soon.  
+
+## 💰💰 [30% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS) 
 
 Save 30% using Coupon code **TECK30** on all the Linux Foundation training and certification programs. This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
 
@@ -80,6 +94,17 @@ Here's a table with some specific Linux Foundation certifications.
 
 
 ## Expired Offers
+
+### [40% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS)  TWO DAYS ONLY | October 8-9
+
+Save 40% using Coupon code **OCTPRIME24** on all the Linux Foundation training and certification programs. This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
+
+-  Kubernetes CKAD VOUCHER ($395 —> $237): [kube.promo/ckad](https://teckbootcamps.com/go/ckad-exam-2024/)
+-  Kubernetes CKA VOUCHER ($395 —> $237): [kube.promo/cka](https://teckbootcamps.com/go/cka-exam-2024/)
+-  Kubernetes CKS VOUCHER ($395 —> $237): [kube.promo/cks](https://teckbootcamps.com/go/cks-exam-2024/)
+
+>  Coupon: use code **OCTPRIME24** at checkout 
+Hurry Up: Offer Ends Soon. TWO DAYS ONLY | October 8-9
 
 ###  [40% OFF] Linux Foundation Site Wide Tech Talent Sale
 
