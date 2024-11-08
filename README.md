@@ -72,14 +72,14 @@ KubeCon + CloudNativeCon North America 2024 is fast approaching! This year’s e
 ### All-Access Pass:
 The All-Access pass grants you entry to all 16 CNCF-hosted co-located events, along with full access to KubeCon + CloudNativeCon.
 
-**Individual**:  $899 — Use code TECKBOOTCAMPS_AAI
-**Corporate**:  $1,549 — Use code TECKBOOTCAMPS_AAC
+- **Individual**:  $899 — Use code TECKBOOTCAMPS_AAI
+- **Corporate**:  $1,549 — Use code TECKBOOTCAMPS_AAC
 
 ### KubeCon + CloudNativeCon Only Pass:
 This pass grants access only to KubeCon + CloudNativeCon sessions, without entry to CNCF-hosted co-located events.
 
-**Individual**: $600 Use code TECKBOOTCAMPS_I
-**Corporate**: $1,250 Use code TECKBOOTCAMPS_C
+- **Individual**: $600 Use code TECKBOOTCAMPS_I
+- **Corporate**: $1,250 Use code TECKBOOTCAMPS_C
 
 > **Register Here:** [Kubecon NA Registration](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/)
 
