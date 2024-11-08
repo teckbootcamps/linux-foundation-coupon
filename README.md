@@ -1,6 +1,6 @@
-# [80 % OFF] Linux Foundation Coupons (Updated For October 2024)
+# [80 % OFF] Linux Foundation Coupons (Updated For November 2024)
 
-Looking for the latest Linux Foundation coupons codes? We got you covered.
+Looking for the latest Linux Foundation coupons codes? 
 
 In this page you will get CKA , CKAD and CKS discount code for 2024 but also other Linux Foundation courses and certifications .
 
@@ -9,7 +9,7 @@ As a certified CKAD, CKA, CKS professional, I am committed to assisting you in o
 
 > Note: We update the Linux Foundation certification offers every month based on official notifications from the Linux Foundation. Feel free to bookmark this page to stay updated with the latest coupons.
 
-## 💰💰  [40% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS)  | OFFER ENDS NOV 12
+## 💰💰  [40% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS)  | Limited Sale |  OFFER ENDS NOV 12 / 2024
 
 Save 40% using Coupon code NOV24KUBE on all the Linux Foundation training and certification programs. This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
 
@@ -51,25 +51,37 @@ Hurry Up: Offer Ends Soon.
 -  KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://teckbootcamps.com/go/kube-promo-kcsa-cks/)
 -  KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://teckbootcamps.com/go/kube-promo-kcna-kcsa/)
 
-
 >  Coupon: use code **TECK30** at checkout 
 Hurry Up: Offer Ends Soon.  
-
 
 > Announcement: The CKA exam syllabus will be updated on November 25th, 2024. Read our CKA exam update [blog](https://teckbootcamps.com/cka-exam-update-new-features-and-removed-content-explained/) to learn more.
 The CKS exam syllabus will change starting October 10th, 2024. Check out our CKS exam update [blog](https://teckbootcamps.com/cks-exam-update-whats-new-whats-removed/) for more details.
 If you’re planning to take the CKA or CKS certification and are looking for a discount, take advantage of this offer to get the best deal on CKA or CKS coupons.
 
+> Note: You have one year of validity to appear for the certification exam after registration
 
->Note: You have one year of validity to appear for the certification exam after registration
-
-
-## Kubernetes Certification CKAD CKA CKS 
-
+## Kubernetes Certification Preparation Guides CKAD CKA CKS 
 - [CKAD Study Guide 2024 ](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
 - [CKA Study Guide 2024 ](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
 - [CKS Study Guide 2024 ](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
 
+
+## Discount Codes for Linux Foundation KubeCon NA
+KubeCon + CloudNativeCon North America 2024 is fast approaching! This year’s event will take place in Salt Lake City, where the Cloud Native Computing Foundation’s premier conference will bring together experts and enthusiasts from the open-source and cloud-native communities to collaborate and advance the field of cloud-native computing.
+
+### All-Access Pass:
+The All-Access pass grants you entry to all 16 CNCF-hosted co-located events, along with full access to KubeCon + CloudNativeCon.
+
+**Individual**:  $899 — Use code TECKBOOTCAMPS_AAI
+**Corporate**:  $1,549 — Use code TECKBOOTCAMPS_AAC
+
+### KubeCon + CloudNativeCon Only Pass:
+This pass grants access only to KubeCon + CloudNativeCon sessions, without entry to CNCF-hosted co-located events.
+
+**Individual**: $600 Use code TECKBOOTCAMPS_I
+**Corporate**: $1,250 Use code TECKBOOTCAMPS_C
+
+> **Register Here:** [Kubecon NA Registration](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/)
 
 ## Recomended Linux Foundation Cerifications
 
@@ -167,8 +179,6 @@ From the offer page, carefully select the offer your need.
 ###  [50% OFF] Linux Foundation Leap into Learnings Sale [Expired]
 
 As part of ean exclusive Linux Foundation leap in to learnings sale get flat 50% discount on e-Learning Courses, Certifications, SkillCreds & IT Professional Programs.
-
-- 🚀  CKA, CKAD, CKS, or KCNA exam aspirants can **save $115%** today using code **LEAP24COM** at [https://kube.promo/certs](https://shareasale.com/r.cfm?b=734319&u=3441847&m=59485&urllink=training%2Elinuxfoundation%2Eorg%2Fcertification%2Dcatalog%2F&afftrack=TECK20). It is a limited-time offer from the Linux Foundation.
 
 The following are the best bundles to **save Extra 50% Discount** with code **LEAPMORE24COM**
 
