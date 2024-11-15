@@ -6,19 +6,19 @@ In this page you will get CKA , CKAD and CKS discount code for 2024 but also oth
 
 As a certified CKAD, CKA, CKS professional, I am committed to assisting you in obtaining kubernetes exam voucher at a significantly reduced price, saving you hundreds of dollars.
 
-
 > Note: We update the Linux Foundation certification offers every month based on official notifications from the Linux Foundation. Feel free to bookmark this page to stay updated with the latest coupons.
 
-## 💰💰  [40% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS)  | Limited Sale |  OFFER ENDS NOV 12 / 2024
+## 💰💰  [40% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS) and Linux Foundation all bundles  | Limited Sale |  OFFER ENDS NOV 25 / 2024
 
-Save 40% using Coupon code NOV24KUBE on all the Linux Foundation training and certification programs. This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
+Save 40% using Coupon code **40NOV24** on all the Linux Foundation training and certification programs. This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification vouchers, training, and BootCamp programs.
 
 -  Kubernetes CKAD VOUCHER ($395 —> $237): [kube.promo/ckad](https://teckbootcamps.com/go/ckad-exam-2024/)
 -  Kubernetes CKA VOUCHER ($395 —> $237): [kube.promo/cka](https://teckbootcamps.com/go/cka-exam-2024/)
 -  Kubernetes CKS VOUCHER ($395 —> $237): [kube.promo/cks](https://teckbootcamps.com/go/cks-exam-2024/)
+  
 Use code NOV24KUBE  at checkout
 
-The following are the best bundles to save upto 40% with code NOV24KUBE
+The following are the best bundles to save upto 40% with code **40NOV24**
 
 -  Kubernetes KCNA $250  —> $150 : [kube.promo/KCNA](https://shrsl.com/4nfid)
 -  Kubernetes KCSA $250  —> $150 : [kube.promo/KCSA](https://shrsl.com/4nfjq)
@@ -30,7 +30,29 @@ The following are the best bundles to save upto 40% with code NOV24KUBE
 -  KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://teckbootcamps.com/go/kube-promo-kcsa-cks/)
 -  KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://teckbootcamps.com/go/kube-promo-kcna-kcsa/)
 
-## 💰💰 [30% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS) 
+## Kubernetes Certification Preparation Guides CKAD CKA CKS 
+- [CKAD Study Guide 2024 ](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
+- [CKA Study Guide 2024 ](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
+- [CKS Study Guide 2024 ](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
+
+
+## Recomended Linux Foundation Cerifications
+
+The Linux Foundation offers several certifications that are highly relevant for DevOps engineers, developers, cloud engineers, and security teams. 
+Here's a table with some specific Linux Foundation certifications.
+
+| Role               | Recommended Certifications                                                         |
+|--------------------|-------------------------------------------------------------------------------------|
+| DevOps Engineers   | - LFCS (Linux Foundation Certified System Administrator) <br> - [CKA](https://teckbootcamps.com/go/cka-exam-2024/) (Certified Kubernetes Administrator) <br> - [CKAD](https://teckbootcamps.com/go/ckad-exam-2024/) (Certified Kubernetes Application Developer) <br> - CKS (Certified Kubernetes Security Specialist) |
+| Developers         | - LFCS (Linux Foundation Certified System Administrator) <br> - [CKAD](https://teckbootcamps.com/go/ckad-exam-2024/) (Certified Kubernetes Application Developer) <br> - Node.js Certification |
+| Cloud Engineers    | - [CKA](https://teckbootcamps.com/go/cka-exam-2024/) (Certified Kubernetes Administrator) <br> - [CKAD](https://teckbootcamps.com/go/ckad-exam-2024/) (Certified Kubernetes Application Developer) <br> - [CKS](https://teckbootcamps.com/go/cks-exam-2024/) (Certified Kubernetes Security Specialist) <br> - LFCS (Linux Foundation Certified System Administrator) |
+| Security Teams     | - LFCS (Linux Foundation Certified System Administrator) <br> - [CKS](https://teckbootcamps.com/go/cks-exam-2024/) (Certified Kubernetes Security Specialist) <br> - Secure Software Development Fundamentals |
+
+>Note: You have one year of validity to appear for the certification exam after registration
+
+## Expired Offers
+
+### 💰💰 [30% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS) 
 
 Save 30% using Coupon code **TECK30** on all the Linux Foundation training and certification programs. This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
 
@@ -60,47 +82,28 @@ If you’re planning to take the CKA or CKS certification and are looking for a 
 
 > Note: You have one year of validity to appear for the certification exam after registration
 
-## Kubernetes Certification Preparation Guides CKAD CKA CKS 
-- [CKAD Study Guide 2024 ](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
-- [CKA Study Guide 2024 ](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
-- [CKS Study Guide 2024 ](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
 
+### 💰💰  [40% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS)  | Limited Sale |  OFFER ENDS NOV 12 / 2024
 
-## Discount Codes for Linux Foundation KubeCon NA
-KubeCon + CloudNativeCon North America 2024 is fast approaching! This year’s event will take place in Salt Lake City, where the Cloud Native Computing Foundation’s premier conference will bring together experts and enthusiasts from the open-source and cloud-native communities to collaborate and advance the field of cloud-native computing.
+Save 40% using Coupon code NOV24KUBE on all the Linux Foundation training and certification programs. This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
 
-### All-Access Pass:
-The All-Access pass grants you entry to all 16 CNCF-hosted co-located events, along with full access to KubeCon + CloudNativeCon.
+-  Kubernetes CKAD VOUCHER ($395 —> $237): [kube.promo/ckad](https://teckbootcamps.com/go/ckad-exam-2024/)
+-  Kubernetes CKA VOUCHER ($395 —> $237): [kube.promo/cka](https://teckbootcamps.com/go/cka-exam-2024/)
+-  Kubernetes CKS VOUCHER ($395 —> $237): [kube.promo/cks](https://teckbootcamps.com/go/cks-exam-2024/)
+Use code NOV24KUBE  at checkout
 
-- **Individual**:  $899 — Use code TECKBOOTCAMPS_AAI
-- **Corporate**:  $1,549 — Use code TECKBOOTCAMPS_AAC
+The following are the best bundles to save upto 40% with code NOV24KUBE
 
-### KubeCon + CloudNativeCon Only Pass:
-This pass grants access only to KubeCon + CloudNativeCon sessions, without entry to CNCF-hosted co-located events.
-
-- **Individual**: $600 Use code TECKBOOTCAMPS_I
-- **Corporate**: $1,250 Use code TECKBOOTCAMPS_C
-
-> **Register Here:** [Kubecon NA Registration](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/)
-
-## Recomended Linux Foundation Cerifications
-
-The Linux Foundation offers several certifications that are highly relevant for DevOps engineers, developers, cloud engineers, and security teams. 
-
-Here's a table with some specific Linux Foundation certifications.
-
-| Role               | Recommended Certifications                                                         |
-|--------------------|-------------------------------------------------------------------------------------|
-| DevOps Engineers   | - LFCS (Linux Foundation Certified System Administrator) <br> - [CKA](https://teckbootcamps.com/go/cka-exam-2024/) (Certified Kubernetes Administrator) <br> - [CKAD](https://teckbootcamps.com/go/ckad-exam-2024/) (Certified Kubernetes Application Developer) <br> - CKS (Certified Kubernetes Security Specialist) |
-| Developers         | - LFCS (Linux Foundation Certified System Administrator) <br> - [CKAD](https://teckbootcamps.com/go/ckad-exam-2024/) (Certified Kubernetes Application Developer) <br> - Node.js Certification |
-| Cloud Engineers    | - [CKA](https://teckbootcamps.com/go/cka-exam-2024/) (Certified Kubernetes Administrator) <br> - [CKAD](https://teckbootcamps.com/go/ckad-exam-2024/) (Certified Kubernetes Application Developer) <br> - [CKS](https://teckbootcamps.com/go/cks-exam-2024/) (Certified Kubernetes Security Specialist) <br> - LFCS (Linux Foundation Certified System Administrator) |
-| Security Teams     | - LFCS (Linux Foundation Certified System Administrator) <br> - [CKS](https://teckbootcamps.com/go/cks-exam-2024/) (Certified Kubernetes Security Specialist) <br> - Secure Software Development Fundamentals |
-
-
->Note: You have one year of validity to appear for the certification exam after registration
-
-
-## Expired Offers
+-  Kubernetes KCNA $250  —> $150 : [kube.promo/KCNA](https://shrsl.com/4nfid)
+-  Kubernetes KCSA $250  —> $150 : [kube.promo/KCSA](https://shrsl.com/4nfjq)
+-  ISTIO CERTIFIED ASSOCIATE $250  —> $150 : [kube.promo/istio](https://shrsl.com/4nfju)
+-  CKA + CKS  $725  —> $435 : [kube.promo/cka-cks](https://teckbootcamps.com/go/kube-promo-bundle/)
+-  CKA + CKAD + CKS $1095  —> $657 : [kube.promo/cka-ckad-cks](https://teckbootcamps.com/go/kube-promo-k8s-bundle/)
+-  KCNA + KCSA + CKA + CKAD + CKS $1495  —> $897 : [kube.promo/kubestronaut](https://teckbootcamps.com/go/kube-promo-kubestronaut/) 
+-  KCNA + CKA ( $288 Savings): [kube.promo/kcka-bundle](https://teckbootcamps.com/go/kube-promo-kcka-bundle/)
+-  KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://teckbootcamps.com/go/kube-promo-kcsa-cks/)
+-  KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://teckbootcamps.com/go/kube-promo-kcna-kcsa/)
+-  
 
 ### 💰💰 [UP TO 40% OFF] Kubernetes Certification Coupon for CKS : Offer valid from 15 to 22 October, 2024
 
