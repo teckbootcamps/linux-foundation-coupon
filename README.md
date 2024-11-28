@@ -43,7 +43,7 @@ Save **60%** using Coupon code **CYBER24BUNDLE** on all the Linux Foundation cer
 -  KCSA + CKS Exam Bundle (~$595~  —> $357) [kube.promo/kcsa-cks](https://teckbootcamps.com/go/kube-promo-kcsa-cks/)
 -  KCNA + KCSA Exam Bundle (~$425~  —> $255) [kube.promo/kcna-kcsa](https://teckbootcamps.com/go/kube-promo-kcna-kcsa/)
 
-AND! **~Cyber Week Purchase Reward – $100!~/**
+AND! **Cyber Week Purchase Reward – $100!/**
 
 > You will receive a $100 gift voucher for your Cyber Week purchase to apply to any e-learning or instructor-led training course or certification from January 1, 2025-October 31, 2025. An email with instructions to redeem your gift will be sent by December 31, 2024.
 
