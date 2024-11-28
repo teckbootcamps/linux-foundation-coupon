@@ -1,4 +1,4 @@
-# [80 % OFF] Linux Foundation Coupons For Decembre 2024
+# [80 % OFF] Linux Foundation Coupons For December 2024
 
 Looking for the latest Linux Foundation coupons codes? 
 
