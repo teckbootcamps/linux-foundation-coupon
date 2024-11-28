@@ -13,9 +13,11 @@ As a certified CKAD, CKA, CKS professional, I am committed to assisting you in o
 Linux Foundation Education and the Cloud Native Computing Foundation (CNCF) have made the decision to increase the price of their standard certifications by approximately **10 percent**.
 The increase will be effective **January 2025** .
 
--  Kubernetes CKAD VOUCHER ($395 —> **$434 January 2025** ) ==> use Coupon **TECK30** to GET IT for **$276**
--  Kubernetes CKA VOUCHER ($395 —> **$434 January 2025**  ) ==> use Coupon **TECK30** to GET IT for **$276**
--  Kubernetes CKS VOUCHER ($395 —> **$434 January 2025**  ) ==> use Coupon **TECK30** to GET IT for **$276**
+-  Kubernetes CKAD VOUCHER ($395 —> **$434 January 2025** ) 
+-  Kubernetes CKA VOUCHER ($395 —> **$434 January 2025**  ) 
+-  Kubernetes CKS VOUCHER ($395 —> **$434 January 2025**  ) 
+
+>  USE Coupo code **TECK30** at checkout to GET all for **$276** before January 2025.
 
 
 ## 💰💰 [30% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS) 
@@ -38,12 +40,11 @@ Save 30% using Coupon code **TECK30** on all the Linux Foundation training and c
 -  KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://teckbootcamps.com/go/kube-promo-kcsa-cks/)
 -  KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://teckbootcamps.com/go/kube-promo-kcna-kcsa/)
 
->  Coupon: use code **TECK30** at checkout 
-Hurry Up: Offer Ends Soon.  
+>  Coupon: use code **TECK30** at checkout .Hurry Up: Offer Ends Soon.  
 
-> Announcement: 
-The **CKA Exam** Syllabus will be updated on January 15th, 2025. Read our CKA exam update [blog](https://teckbootcamps.com/cka-exam-update-new-features-and-removed-content-explained/) to learn more.
-Changes in The **CKS Exam** Syllabus went into effect October 15th, 2024. Check out our CKS exam update [blog](https://teckbootcamps.com/cks-exam-update-whats-new-whats-removed/) for more details.
+> 💥 Announcement: The **CKA Exam** Syllabus will be updated on January 15th, 2025. Read our CKA exam update [blog](https://teckbootcamps.com/cka-exam-update-new-features-and-removed-content-explained/) to learn more.
+
+> 💥 Announcement: Changes in The **CKS Exam** Syllabus went into effect October 15th, 2024. Check out our CKS exam update [blog](https://teckbootcamps.com/cks-exam-update-whats-new-whats-removed/) for more details.
 
 > Note: You have one year of validity to appear for the certification exam after registration
 
