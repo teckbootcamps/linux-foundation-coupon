@@ -48,9 +48,12 @@ Changes in The **CKS Exam** Syllabus went into effect October 15th, 2024. Check 
 > Note: You have one year of validity to appear for the certification exam after registration
 
 ## Kubernetes Certification Preparation Guides CKAD CKA CKS 
-- [CKAD Study Guide 2024 ](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
-- [CKA Study Guide 2024 ](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
-- [CKS Study Guide 2024 ](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
+
+| Exam Prepartion Guide ( Blog)                           | Exam Prepartion Guide (GitHub)           |
+|---------------------------------------------|-----------------------------------------------------------------------------------|
+|[CKAD Study Guide](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup> |[CKAD Exam GitHub](https://github.com/teckbootcamps/CKAD-Certified-Kubernetes-Application-Developer)<sup>Github</sup>  |
+|[CKA Study Guide](https://teckbootcamps.com/cka-exam-study-guide/)<sup>Blog</sup> | [CKA Exam GitHub](https://github.com/teckbootcamps/CKA-Certified-Kubernetes-Administrator)<sup>Github</sup> |
+|[CKS Study Guide](https://teckbootcamps.com/cks-exam-study-guide/)<sup>Blog</sup>  |  [CKS Exam GitHub](https://github.com/teckbootcamps/CKS-Certified-Kubernetes-Security-Specialist)<sup>Github</sup>|
 
 
 ## Recomended Linux Foundation Cerifications
