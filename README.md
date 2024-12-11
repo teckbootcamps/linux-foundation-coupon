@@ -8,6 +8,10 @@ As a certified CKAD, CKA, CKS professional, I am committed to assisting you in o
 
 > Note: We update the Linux Foundation certification offers every month based on official notifications from the Linux Foundation. Feel free to bookmark this page to stay updated with the latest coupons.
 
+Hit the Star! ⭐
+If you are using this repo for guidance, please hit the star. Thanks A lot !
+
+
 ## 💥 Kubernetes Certification Prices to Increase in January 2025 | **CKA** **CKAD** **CKS** **LFCS** | 10% Increase Price
 
 Linux Foundation Education and the Cloud Native Computing Foundation (CNCF) have made the decision to increase the price of their standard certifications by approximately **10 percent**.
