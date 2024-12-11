@@ -20,7 +20,7 @@ The increase will be effective **January 2025** .
 >  USE Coupo code **TECK30** at checkout to GET all for **$276** before January 2025.
 
 
-## 💥💥RUNNING SALE [UP to 60% OFF ] CYBER MONDAY DEALS at the Linux Foundation ! Offer valid from Dec 2, 2024 - Dec 11, 2024 
+## 💥💥STILL 7 HOURS :  [UP to 60% OFF ] CYBER MONDAY DEALS at the Linux Foundation ! Offer valid from Dec 2, 2024 - Dec 11, 2024 
 > Important Note: This is the **MOST exceptional offer** you'll receive from the Linux Foundation this year!
 
 ### Save **50%** using Coupon code **CYBER24CC** on all the Linux Foundation training and certification programs.
