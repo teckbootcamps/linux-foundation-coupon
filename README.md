@@ -59,7 +59,7 @@ AND! **Cyber Week Purchase Reward – $100!/**
 Save 30% using Coupon code **TECK30** on all the Linux Foundation training and certification programs. This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
 
 > [!NOTE]
->  USE Coupon code **TECK30** at checkout to GET all for **$276** before January 2025.
+>  USE Coupon code **TECK30** at checkout to GET **30% OFF** before January 2025.
 
 -  Kubernetes CKAD VOUCHER (~$395~ —> $276): [teckbootcamps/ckad](https://teckbootcamps.com/go/ckad-exam-2024/)
 -  Kubernetes CKA VOUCHER (~$395~ —> $276): [teckbootcamps/cka](https://teckbootcamps.com/go/cka-exam-2024/)
