@@ -6,7 +6,9 @@ In this page you will get CKA , CKAD and CKS discount code for 2024 but also oth
 
 As a certified CKAD, CKA, CKS professional, I am committed to assisting you in obtaining kubernetes exam voucher at a significantly reduced price, saving you hundreds of dollars.
 
-> Note: We update the Linux Foundation certification offers every month based on official notifications from the Linux Foundation. Feel free to bookmark this page to stay updated with the latest coupons.
+> [!NOTE]
+> We update the Linux Foundation certification offers every month based on official notifications from the Linux Foundation. Feel free to bookmark this page to stay updated with the latest coupons.
+
 
 ## Hit the Star! :star:
 If you are using this repo to ghet a coupon , please hit the star. Thanks!
@@ -18,8 +20,9 @@ The increase will be effective **January 2025** .
 
 -  Kubernetes CKAD VOUCHER (~$395~ —> **$434 January 2025** ) 
 -  Kubernetes CKA VOUCHER (~$395~ —> **$434 January 2025**  ) 
--  Kubernetes CKS VOUCHER (~$395~ —> **$434 January 2025**  ) 
-
+-  Kubernetes CKS VOUCHER (~$395~ —> **$434 January 2025**  )
+  
+> [!NOTE]
 >  USE Coupo code **TECK30** at checkout to GET all for **$276** before January 2025.
 
 
