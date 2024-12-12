@@ -11,7 +11,7 @@ As a certified CKAD, CKA, CKS professional, I am committed to assisting you in o
 ## Hit the Star! :star:
 If you are using this repo to ghet a coupon , please hit the star. Thanks!
 
-## 💥 Kubernetes Certification Prices to Increase in January 2025 | **CKA** **CKAD** **CKS** **LFCS** | 10% Increase Price
+## Kubernetes Certification Prices to Increase in January 2025 | **CKA** **CKAD** **CKS** **LFCS** | 10% Increase Price
 
 Linux Foundation Education and the Cloud Native Computing Foundation (CNCF) have made the decision to increase the price of their standard certifications by approximately **10 percent**.
 The increase will be effective **January 2025** .
@@ -23,7 +23,7 @@ The increase will be effective **January 2025** .
 >  USE Coupo code **TECK30** at checkout to GET all for **$276** before January 2025.
 
 
-## 💥💥STILL 7 HOURS :  [UP to 60% OFF ] CYBER MONDAY DEALS at the Linux Foundation ! Offer valid from Dec 2, 2024 - Dec 11, 2024 
+##  STILL HOURS :  [UP to 60% OFF ] CYBER MONDAY DEALS at the Linux Foundation ! Offer valid from Dec 2, 2024 - Dec 11, 2024 
 > Important Note: This is the **MOST exceptional offer** you'll receive from the Linux Foundation this year!
 
 ### Save **50%** using Coupon code **CYBER24CC** on all the Linux Foundation training and certification programs.
