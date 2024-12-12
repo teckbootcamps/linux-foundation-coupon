@@ -23,8 +23,7 @@ The increase will be effective **January 2025** .
 -  Kubernetes CKS VOUCHER (~$395~ —> **$434 January 2025**  )
   
 > [!NOTE]
->  USE Coupo code **TECK30** at checkout to GET all for **$276** before January 2025.
-
+>  USE Coupon code **TECK30** at checkout to GET all for **$276** before January 2025.
 
 ##  STILL HOURS :  [UP to 60% OFF ] CYBER MONDAY DEALS at the Linux Foundation ! Offer valid from Dec 2, 2024 - Dec 11, 2024 
 > Important Note: This is the **MOST exceptional offer** you'll receive from the Linux Foundation this year!
@@ -38,7 +37,7 @@ The increase will be effective **January 2025** .
 -  Kubernetes KCSA (~$250~  —> $125) : [teckbootcamps/KCSA](https://shrsl.com/4nfjq)
 -  ISTIO CERTIFIED ASSOCIATE (~$250~  —> $125) : [teckbootcamps/istio](https://shrsl.com/4nfju)
 
->  Coupon: use code **CYBER24CC** at checkout .
+>  Couponn: use code **CYBER24CC** at checkout .
 
 ### Save **60%** using Coupon code **CYBER24BUNDLE** on all the Linux Foundation certification bundles.
 
@@ -59,13 +58,12 @@ AND! **Cyber Week Purchase Reward – $100!/**
 
 Save 30% using Coupon code **TECK30** on all the Linux Foundation training and certification programs. This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
 
+> [!NOTE]
+>  USE Coupon code **TECK30** at checkout to GET all for **$276** before January 2025.
+
 -  Kubernetes CKAD VOUCHER (~$395~ —> $276): [teckbootcamps/ckad](https://teckbootcamps.com/go/ckad-exam-2024/)
 -  Kubernetes CKA VOUCHER (~$395~ —> $276): [teckbootcamps/cka](https://teckbootcamps.com/go/cka-exam-2024/)
 -  Kubernetes CKS VOUCHER (~$395~ —> $276): [teckbootcamps/cks](https://teckbootcamps.com/go/cks-exam-2024/)
-
-> [!NOTE]
->  USE Coupo code **TECK30** at checkout to GET all for **$276** before January 2025.
-
 -  Kubernetes KCNA (~$250~  —> $175) : [teckbootcamps/KCNA](https://shrsl.com/4nfid)
 -  Kubernetes KCSA (~$250~  —> $175) : [teckbootcamps/KCSA](https://shrsl.com/4nfjq)
 -  ISTIO CERTIFIED ASSOCIATE (~$250~  —> $175) : [teckbootcamps/istio](https://shrsl.com/4nfju)
@@ -77,10 +75,8 @@ Save 30% using Coupon code **TECK30** on all the Linux Foundation training and c
 -  KCNA + KCSA Exam Bundle ($203 Savings) [teckbootcamps/kcna-kcsa](https://teckbootcamps.com/go/kube-promo-kcna-kcsa/)
 
 > [!NOTE]
->  USE Coupo code **TECK30** at checkout to GET all for **$276** before January 2025.
-
-> [!NOTE]
 > 💥 The **CKA Exam** Syllabus will be updated on January 15th, 2025. Read our CKA exam update [blog](https://teckbootcamps.com/cka-exam-update-new-features-and-removed-content-explained/) to learn more.
+
 > 💥 Changes in The **CKS Exam** Syllabus went into effect October 15th, 2024. Check out our CKS exam update [blog](https://teckbootcamps.com/cks-exam-update-whats-new-whats-removed/) for more details.
 
 > You have one year of validity to appear for the certification exam after registration
