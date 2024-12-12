@@ -104,7 +104,7 @@ Here's a table with some specific Linux Foundation certifications.
 
 >Note: You have one year of validity to appear for the certification exam after registration
 
-## Expired Kubernetes Exam Promotion
+## Expired Kubernetes Exam Offers
 
 ### [40% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS) and Linux Foundation all bundles  | Limited Sale |  OFFER ENDS NOV 25 / 2024
 
@@ -215,9 +215,9 @@ Following are the best saving options for DevOps Engineers 🚀
 
 From the offer page, carefully select the offer your need.
 
-- CKAD : http://shrsl.com/4a08k
-- CKA :  http://shrsl.com/4a08p
-- CKA : http://shrsl.com/4a08r
+-  Kubernetes CKAD VOUCHER : [teckbootcamps/ckad](https://teckbootcamps.com/go/ckad-exam-2024/)
+-  Kubernetes CKA VOUCHER : [teckbootcamps/cka](https://teckbootcamps.com/go/cka-exam-2024/)
+-  Kubernetes CKS VOUCHER : [teckbootcamps/cks](https://teckbootcamps.com/go/cks-exam-2024/)
 
 
 > You can also check the [Linux Foundation Coupon](https://teckbootcamps.com/linux-foundation-coupons/) blog for exclusive coupons
@@ -228,9 +228,9 @@ As part of ean exclusive Linux Foundation leap in to learnings sale get flat 50%
 
 The following are the best bundles to **save Extra 50% Discount** with code **LEAPMORE24COM**
 
-- CKAD : http://shrsl.com/4a08k
-- CKA :  http://shrsl.com/4a08p
-- CKA : http://shrsl.com/4a08r
+-  Kubernetes CKAD VOUCHER : [teckbootcamps/ckad](https://teckbootcamps.com/go/ckad-exam-2024/)
+-  Kubernetes CKA VOUCHER : [teckbootcamps/cka](https://teckbootcamps.com/go/cka-exam-2024/)
+-  Kubernetes CKS VOUCHER : [teckbootcamps/cks](https://teckbootcamps.com/go/cks-exam-2024/)
 
 **Note:** This Offer Valid until Feb 29, 2024  
 
@@ -239,10 +239,46 @@ The following are the best bundles to **save Extra 50% Discount** with code **LE
 **Restrictions:** This promotion is available to anyone who purchases the above-mentioned products with an applicable coupon between February 20, 2024, and February 29, 2024, 23:59 UTC. It is not valid for any other combination of courses or certifications. Promotional price limited to individual purchases ONLY. Offer not valid with any other discount combinations. Offer does not include THRIVE-ONE subscriptions or any FinOps courses and certifications.
 
 
-###  50% OFF CKA / CKS  Coupon
+##  50% OFF CKA / CKS  Coupon
 
 Linux Foundation has a rewards program where you can get 50% discount on certifications once you spend $500 with the Linux foundation. You can get 50% discount on any certification or training program.
 
 Rewards: [Check your Rewards Here](https://openprofile.dev/myrewards/coupons)
+
+
+## Frequently Asked Questions
+
+### 1. How can I get a Linux Foundation coupon?
+
+Details on how to acquire a coupon are provided in the repository. Please check the `README.md` file for more information.
+
+---
+
+### 2. Are the coupons free?
+
+Yes, the coupons are free. For accurate details, refer to the specific descriptions provided in the repository.
+
+---
+
+### 3. How do I redeem a coupon?
+
+To redeem a coupon, follow these steps:
+
+1. Visit the [Linux Foundation website](https://www.linuxfoundation.org).
+2. Add your desired course or certification to your cart.
+3. Enter the coupon code during the checkout process.
+4. Verify the discount and complete your purchase.
+
+---
+
+### 4. What should I do if my coupon doesn’t work?
+
+If you encounter issues with a coupon, please follow these steps:
+
+1. Double-check the expiration date and terms of use for the coupon.
+2. Ensure that you meet any eligibility requirements stated for the coupon.
+3. If the issue persists, raise an issue in this repository for further assistance.
+
+
 
 
