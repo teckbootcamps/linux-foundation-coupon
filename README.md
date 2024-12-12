@@ -239,7 +239,7 @@ The following are the best bundles to **save Extra 50% Discount** with code **LE
 **Restrictions:** This promotion is available to anyone who purchases the above-mentioned products with an applicable coupon between February 20, 2024, and February 29, 2024, 23:59 UTC. It is not valid for any other combination of courses or certifications. Promotional price limited to individual purchases ONLY. Offer not valid with any other discount combinations. Offer does not include THRIVE-ONE subscriptions or any FinOps courses and certifications.
 
 
-##  50% OFF CKA / CKS  Coupon
+##  50% OFF CKA(D)/ CKS  Coupon
 
 Linux Foundation has a rewards program where you can get 50% discount on certifications once you spend $500 with the Linux foundation. You can get 50% discount on any certification or training program.
 
