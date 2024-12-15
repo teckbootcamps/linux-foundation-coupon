@@ -46,12 +46,15 @@ Save 30% using Coupon code **TECK30** on all the Linux Foundation training and c
 -  KCSA + CKS Exam Bundle ($229 Savings) [teckbootcamps/kcsa-cks](https://teckbootcamps.com/go/kube-promo-kcsa-cks/)
 -  KCNA + KCSA Exam Bundle ($203 Savings) [teckbootcamps/kcna-kcsa](https://teckbootcamps.com/go/kube-promo-kcna-kcsa/)
 
+> [!IMPORTANT]
+>  You have one year of validity to appear for the certification exam after registration
+
 > [!NOTE]
 > 💥 The **CKA Exam** Syllabus will be updated on January 15th, 2025. Read our CKA exam update [blog](https://teckbootcamps.com/cka-exam-update-new-features-and-removed-content-explained/) to learn more.
 
+> [!NOTE]
 > 💥 Changes in The **CKS Exam** Syllabus went into effect October 15th, 2024. Check out our CKS exam update [blog](https://teckbootcamps.com/cks-exam-update-whats-new-whats-removed/) for more details.
 
-> You have one year of validity to appear for the certification exam after registration
 
 ## Kubernetes Certification Preparation Guides CKAD CKA CKS 
 
