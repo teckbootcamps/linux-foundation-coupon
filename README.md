@@ -10,9 +10,14 @@ As a certified CKAD, CKA, CKS professional, I am committed to assisting you in o
 > We update the Linux Foundation certification offers every month based on official notifications from the Linux Foundation. Feel free to bookmark this page to stay updated with the latest coupons.
 
 
-## Hit the Star! :star:
-If you are using this repo to ghet a coupon , please hit the star. Thanks!
+## 🎯 **Why Bookmark This Page and Hit the Star! :star: ?**
 
+- **Monthly Updates**: We refresh our offers regularly, based on the latest announcements from the Linux Foundation.  
+- **Exclusive Savings**: Grab up to **80% OFF** on Kubernetes and Linux certifications.  
+- **Top Certification Deals**: CKA, CKAD, CKS, KCNA, LFCS, and more.  
+
+> **Note:**  
+> Bookmark this page and visit often to stay updated with the latest discounts. Offers expire fast!
 
 ## 📅 **Price Hike Alert: January 2025**
 The Linux Foundation is increasing certification prices by **10%** starting January 2025. Beat the price hike!  
@@ -278,6 +283,12 @@ To redeem a coupon, follow these steps:
 2. Add your desired course or certification to your cart.
 3. Enter the coupon code during the checkout process.
 4. Verify the discount and complete your purchase.
+
+---
+
+### 3. What is the validity of the Linux Foundation coupons?
+
+Most coupons are valid for the month they are announced, and certification registrations are valid for one year from the date of purchase.
 
 ---
 
