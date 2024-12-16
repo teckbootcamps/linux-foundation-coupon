@@ -13,14 +13,16 @@ As a certified CKAD, CKA, CKS professional, I am committed to assisting you in o
 ## Hit the Star! :star:
 If you are using this repo to ghet a coupon , please hit the star. Thanks!
 
-## Kubernetes Certification Prices to Increase in January 2025 | **CKA** **CKAD** **CKS** **LFCS** | 10% Increase Price
 
-Linux Foundation Education and the Cloud Native Computing Foundation (CNCF) have made the decision to increase the price of their standard certifications by approximately **10 percent**.
-The increase will be effective **January 2025** .
+## 📅 **Price Hike Alert: January 2025**
+The Linux Foundation is increasing certification prices by **10%** starting January 2025. Beat the price hike!  
 
--  Kubernetes CKAD VOUCHER (~$395~ —> **$434 January 2025** ) 
--  Kubernetes CKA VOUCHER (~$395~ —> **$434 January 2025**  ) 
--  Kubernetes CKS VOUCHER (~$395~ —> **$434 January 2025**  )
+| **Certification** | **Current Price** | **Price After Hike** |  
+|--------------------|--------------------|-----------------------|  
+| CKAD               | ~$395~            | **$434**             |  
+| CKA                | ~$395~            | **$434**             |  
+| CKS                | ~$395~            | **$434**             |  
+
   
 > [!NOTE]
 >  USE Coupon code **TECK30** at checkout to GET all for **$276** before January 2025.
