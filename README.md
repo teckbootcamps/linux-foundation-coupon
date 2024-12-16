@@ -270,6 +270,65 @@ Linux Foundation has a rewards program where you can get 50% discount on certifi
 Rewards: [Check your Rewards Here](https://openprofile.dev/myrewards/coupons)
 
 
+---
+
+## **Recommended Kubernetes Certification Path**
+
+Looking to navigate your Kubernetes learning journey? Follow this **step-by-step certification path** to build your skills from foundational concepts to advanced specialization.
+
+### **Step 1: Start with KCNA (Kubernetes and Cloud Native Associate)**  
+This foundational certification introduces:  
+- Kubernetes basics.  
+- Core cloud-native concepts.  
+
+> **Ideal For**: Beginners new to Kubernetes and cloud-native environments.
+
+---
+
+### **Step 2: Optionally Pursue CKAD (Certified Kubernetes Application Developer)**  
+Learn to:  
+- Build and manage Kubernetes-native applications.  
+- Focus on application lifecycle management in Kubernetes.  
+
+> **Ideal For**: Developers looking to build containerized applications.
+
+---
+
+### **Step 3: Progress to CKA (Certified Kubernetes Administrator)**  
+Master:  
+- Kubernetes cluster operations.  
+- Administration and troubleshooting skills.  
+
+> **Ideal For**: Professionals focusing on Kubernetes cluster management and operations.
+
+---
+
+### **Step 4: Explore KCSA (Kubernetes and Cloud Native Security Associate)**  
+Gain foundational knowledge in:  
+- Kubernetes security principles.  
+- Cloud-native security best practices.  
+
+> **Ideal For**: Beginners seeking an introduction to Kubernetes security concepts.
+
+---
+
+### **Step 5: Complete the Path with CKS (Certified Kubernetes Security Specialist)**  
+Specialize in:  
+- Advanced security techniques for Kubernetes.  
+- Securing Kubernetes clusters and workloads.  
+
+> **Prerequisite**: CKA certification.  
+> **Ideal For**: Professionals focusing on Kubernetes security specialization.
+
+---
+
+### **Why Follow This Certification Path?**  
+- **Gradual Skill Development**: Progress from beginner (KCNA) to advanced (CKS).  
+- **Flexible Options**: Tailor your learning to administration, development, or security.  
+- **Globally Recognized Expertise**: Gain skills highly valued in the cloud-native ecosystem.
+
+> **Start your journey**: Begin with [KCNA](https://teckbootcamps.com/go/kcna-exam/) and progress through the path that suits your career goals!
+
 ## Frequently Asked Questions
 
 ### 1. How can I get a Linux Foundation coupon?
