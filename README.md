@@ -202,17 +202,6 @@ Save 30% using Coupon code **OCT24** on  Linux Foundation Courses & Certificatio
 Hurry Up: Offer Ends Soon.
 
 
-### [40% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS)  TWO DAYS ONLY | October 8-9
-
-Save 40% using Coupon code **OCTPRIME24** on all the Linux Foundation training and certification programs. This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
-
--  Kubernetes CKAD VOUCHER ($395 —> $237): [teckbootcamps/ckad](https://teckbootcamps.com/go/ckad-exam-2024/)
--  Kubernetes CKA VOUCHER ($395 —> $237): [teckbootcamps/cka](https://teckbootcamps.com/go/cka-exam-2024/)
--  Kubernetes CKS VOUCHER ($395 —> $237): [teckbootcamps/cks](https://teckbootcamps.com/go/cks-exam-2024/)
-
->  Coupon: use code **OCTPRIME24** at checkout 
-Hurry Up: Offer Ends Soon. TWO DAYS ONLY | October 8-9
-
 ###  [40% OFF] Linux Foundation Site Wide Tech Talent Sale
 
 Get flat 40% off on Certifications and bundles using the exclusive Tech Talent sale.
@@ -225,23 +214,6 @@ The following are the best bundles to **save upto $788** with code **TECHTALENT2
 - KCNA + CKA ( $288 Savings): [teckbootcamps/kcka-bundle](https://teckbootcamps.com/go/kube-promo-kcka-bundle/)
 - KCSA + CKS Exam Bundle ($229 Savings) [teckbootcamps/kcsa-cks](https://teckbootcamps.com/go/kube-promo-kcsa-cks/)
 - KCNA + KCSA Exam Bundle ($203 Savings) [teckbootcamps/kcna-kcsa](https://teckbootcamps.com/go/kube-promo-kcna-kcsa/)
-
-
-###  20% OFF Linux Foundation Site-Wide Discount
-
-Get 20% discount on all the Linux Foundation certifications, trainings, Skillcreds and IT Professional programs
-
-**Coupon Code:** TECK20 
-
-**Redeem here:** [teckbootcamps/devops](https://teckbootcamps.com/go/kubernetes-exams/)
-
-Following are the best saving options for DevOps Engineers 🚀
-
-From the offer page, carefully select the offer your need.
-
--  Kubernetes CKAD VOUCHER : [teckbootcamps/ckad](https://teckbootcamps.com/go/ckad-exam-2024/)
--  Kubernetes CKA VOUCHER : [teckbootcamps/cka](https://teckbootcamps.com/go/cka-exam-2024/)
--  Kubernetes CKS VOUCHER : [teckbootcamps/cks](https://teckbootcamps.com/go/cks-exam-2024/)
 
 
 > You can also check the [Linux Foundation Coupon](https://teckbootcamps.com/linux-foundation-coupons/) blog for exclusive coupons
