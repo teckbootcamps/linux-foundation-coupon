@@ -35,8 +35,6 @@ Save 30% using Coupon code **TECK30** on all the Linux Foundation training and c
 > [!IMPORTANT]
 >  USE Coupon code **TECK30** at checkout to GET **30% OFF** before January 2025.
 
-# Kubernetes Certification Discounts
-
 | **Certification/Bundle**            | **Original Price** | **Discounted Price** | **Savings**     | **Claim Offer** |
 |-------------------------------------|--------------------|-----------------------|-----------------|-----------------|
 | Kubernetes CKAD Voucher             | ~$395~            | **$276**             | $119            | [Get CKAD Voucher](https://teckbootcamps.com/go/ckad-exam-2024/) |
