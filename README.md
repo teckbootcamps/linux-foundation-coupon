@@ -75,18 +75,27 @@ Save 30% using Coupon code **TECK30** on all the Linux Foundation training and c
 |[CKS Study Guide](https://teckbootcamps.com/cks-exam-study-guide/)<sup>Blog</sup>  |  [CKS Exam GitHub](https://github.com/teckbootcamps/CKS-Certified-Kubernetes-Security-Specialist)<sup>Github</sup>|
 
 
-## Recomended Linux Foundation Cerifications
+## Linux Foundation Certifications by Role
 
-The Linux Foundation offers several certifications that are highly relevant for DevOps engineers, developers, cloud engineers, and security teams. 
-Here's a table with some specific Linux Foundation certifications.
+Find the right certification tailored to your role and career aspirations. Whether you're a **DevOps Engineer**, **Cloud Architect**, or **Software Developer**, Linux Foundation certifications help you master the skills you need for success.
 
-| Role               | Recommended Certifications                                                         |
-|--------------------|-------------------------------------------------------------------------------------|
-| DevOps Engineers   | - LFCS (Linux Foundation Certified System Administrator) <br> - [CKA](https://teckbootcamps.com/go/cka-exam-2024/) (Certified Kubernetes Administrator) <br> - [CKAD](https://teckbootcamps.com/go/ckad-exam-2024/) (Certified Kubernetes Application Developer) <br> - CKS (Certified Kubernetes Security Specialist) |
-| Developers         | - LFCS (Linux Foundation Certified System Administrator) <br> - [CKAD](https://teckbootcamps.com/go/ckad-exam-2024/) (Certified Kubernetes Application Developer) <br> - Node.js Certification |
-| Cloud Engineers    | - [CKA](https://teckbootcamps.com/go/cka-exam-2024/) (Certified Kubernetes Administrator) <br> - [CKAD](https://teckbootcamps.com/go/ckad-exam-2024/) (Certified Kubernetes Application Developer) <br> - [CKS](https://teckbootcamps.com/go/cks-exam-2024/) (Certified Kubernetes Security Specialist) <br> - LFCS (Linux Foundation Certified System Administrator) |
-| Security Teams     | - LFCS (Linux Foundation Certified System Administrator) <br> - [CKS](https://teckbootcamps.com/go/cks-exam-2024/) (Certified Kubernetes Security Specialist) <br> - Secure Software Development Fundamentals |
+| **Role**               | **Recommended Certifications**                                                                                                                                                                                                                   |
+|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **DevOps Engineers**    | - **LFCS**: Linux Foundation Certified System Administrator  <br> - [**CKA**](https://teckbootcamps.com/go/cka-exam-2024/): Certified Kubernetes Administrator  <br> - [**CKAD**](https://teckbootcamps.com/go/ckad-exam-2024/): Certified Kubernetes Application Developer  <br> - **CKS**: Certified Kubernetes Security Specialist |
+| **Developers**          | - **LFCS**: Linux Foundation Certified System Administrator  <br> - [**CKAD**](https://teckbootcamps.com/go/ckad-exam-2024/): Certified Kubernetes Application Developer                                                                         |
+| **Cloud Engineers**     | - [**CKA**](https://teckbootcamps.com/go/cka-exam-2024/): Certified Kubernetes Administrator  <br> - [**CKAD**](https://teckbootcamps.com/go/ckad-exam-2024/): Certified Kubernetes Application Developer  <br> - [**CKS**](https://teckbootcamps.com/go/cks-exam-2024/): Certified Kubernetes Security Specialist  <br> - **LFCS**: Linux Foundation Certified System Administrator |
+| **Security Teams**      | - **LFCS**: Linux Foundation Certified System Administrator  <br> - [**CKS**](https://teckbootcamps.com/go/cks-exam-2024/): Certified Kubernetes Security Specialist  <br> - **Secure Software Development Fundamentals**                           |
+| **Software Architects** | - **LFCS**: Linux Foundation Certified System Administrator  <br> - [**CKAD**](https://teckbootcamps.com/go/ckad-exam-2024/): Certified Kubernetes Application Developer                                                                         |
+| **Cloud Architects**    | - [**CKA**](https://teckbootcamps.com/go/cka-exam-2024/): Certified Kubernetes Administrator  <br> - [**CKAD**](https://teckbootcamps.com/go/ckad-exam-2024/): Certified Kubernetes Application Developer  <br> - [**CKS**](https://teckbootcamps.com/go/cks-exam-2024/): Certified Kubernetes Security Specialist  <br> - **LFCS**: Linux Foundation Certified System Administrator |
+| **Technical Architects**| - **LFCS**: Linux Foundation Certified System Administrator  <br> - [**CKA**](https://teckbootcamps.com/go/cka-exam-2024/): Certified Kubernetes Administrator  <br> - [**CKS**](https://teckbootcamps.com/go/cks-exam-2024/): Certified Kubernetes Security Specialist  <br> - **Secure Software Development Fundamentals** |
 
+---
+
+### How to Use This Table
+1. Identify your role (e.g., **Cloud Engineer**, **Developer**, etc.).
+2. Explore the certifications listed for your role.
+3. Click on the provided links to learn more about each certification.
+4. Start your certification journey today!
 >Note: You have one year of validity to appear for the certification exam after registration
 
 ## Expired Kubernetes Exam Offers
