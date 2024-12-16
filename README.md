@@ -276,6 +276,10 @@ Rewards: [Check your Rewards Here](https://openprofile.dev/myrewards/coupons)
 
 Looking to navigate your Kubernetes learning journey? Follow this **step-by-step certification path** to build your skills from foundational concepts to advanced specialization.
 
+<p align="center">
+  <img src="https://teckbootcamps.com/wp-content/uploads/2024/12/path-600x199.png" alt="Recommended Kubernetes Certification Path">
+</p>
+
 ### **Step 1: Start with KCNA (Kubernetes and Cloud Native Associate)**  
 This foundational certification introduces:  
 - Kubernetes basics.  
