@@ -32,7 +32,7 @@ The Linux Foundation is increasing certification prices by **10%** starting Janu
 > [!NOTE]
 >  USE Coupon code **TECK30** at checkout to GET all for **$276** before January 2025.
 
-## 🎉 [35% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS) |⏰ **Offer Ends**: December 19, 2024 
+## 🎉 [35% OFF] Kubernetes Certification Coupon |⏰ **Offer Ends**: December 19, 2024 
 
 > [!IMPORTANT]
 >  USE Coupon code **HOLIDAY24 ** at checkout to GET **35% OFF** 
