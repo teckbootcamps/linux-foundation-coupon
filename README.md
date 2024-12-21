@@ -32,26 +32,6 @@ The Linux Foundation is increasing certification prices by **10%** starting Janu
 > [!NOTE]
 >  USE Coupon code **TECK30** at checkout to GET all for **$276** before January 2025.
 
-## 🎉 [35% OFF] Kubernetes Certification Coupon |⏰ **Offer Ends**: December 19, 2024 
-
-> [!IMPORTANT]
->  USE Coupon code **HOLIDAY24 ** at checkout to GET **35% OFF** 
-
-| **Certification/Bundle**            | **Original Price** | **Discounted Price** | **Savings**     | **Claim Offer** |
-|-------------------------------------|--------------------|-----------------------|-----------------|-----------------|
-| Kubernetes CKAD Voucher             | ~$395~            | **$256.75**          | $138.25         | [Get CKAD Voucher](https://teckbootcamps.com/go/ckad-exam-2024/) |
-| Kubernetes CKA Voucher              | ~$395~            | **$256.75**          | $138.25         | [Get CKA Voucher](https://teckbootcamps.com/go/cka-exam-2024/) |
-| Kubernetes CKS Voucher              | ~$395~            | **$256.75**          | $138.25         | [Get CKS Voucher](https://teckbootcamps.com/go/cks-exam-2024/) |
-| Kubernetes KCNA                     | ~$250~            | **$162.50**          | $87.50          | [Get KCNA Voucher](https://shrsl.com/4nfid) |
-| Kubernetes KCSA                     | ~$250~            | **$162.50**          | $87.50          | [Get KCSA Voucher](https://shrsl.com/4nfjq) |
-| ISTIO Certified Associate           | ~$250~            | **$162.50**          | $87.50          | [Get ISTIO Voucher](https://shrsl.com/4nfju) |
-| CKA + CKS Bundle                    | ~$725~            | **$471.25**          | $253.75         | [Get CKA + CKS Bundle](https://teckbootcamps.com/go/kube-promo-bundle/) |
-| CKA + CKAD + CKS Bundle             | ~$1095~           | **$711.75**          | $383.25         | [Get Full Bundle](https://teckbootcamps.com/go/kube-promo-k8s-bundle/) |
-| kubestronaut (KCNA + KCSA + CKA + CKAD + CKS) | ~$1495~           | **$971.75**          | $523.25         | [Get Complete Bundle](https://teckbootcamps.com/go/kube-promo-kubestronaut/) |
-| KCNA + CKA Bundle                   | ~$595~            | **$386.75**          | $208.25         | [Get KCNA + CKA Bundle](https://teckbootcamps.com/go/kube-promo-kcka-bundle/) |
-| KCSA + CKS Exam Bundle              | ~$595~            | **$386.75**          | $208.25         | [Get KCSA + CKS Bundle](https://teckbootcamps.com/go/kube-promo-kcsa-cks/) |
-| KCNA + KCSA Exam Bundle             | ~$425~            | **$276.25**          | $148.75         | [Get KCNA + KCSA Bundle](https://teckbootcamps.com/go/kube-promo-kcna-kcsa/) |
-
 
 ## 💰💰 [30% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS) | RUNNING SALE
 
@@ -119,6 +99,28 @@ Find the right certification tailored to your role and career aspirations. Wheth
 >Note: You have one year of validity to appear for the certification exam after registration
 
 ## Expired Kubernetes Exam Offers
+
+
+####  [35% OFF] Kubernetes Certification Coupon | **Offer Ends**: December 19, 2024 
+
+> [!IMPORTANT]
+>  USE Coupon code **HOLIDAY24 ** at checkout to GET **35% OFF** 
+
+| **Certification/Bundle**            | **Original Price** | **Discounted Price** | **Savings**     | **Claim Offer** |
+|-------------------------------------|--------------------|-----------------------|-----------------|-----------------|
+| Kubernetes CKAD Voucher             | ~$395~            | **$256.75**          | $138.25         | [Get CKAD Voucher](https://teckbootcamps.com/go/ckad-exam-2024/) |
+| Kubernetes CKA Voucher              | ~$395~            | **$256.75**          | $138.25         | [Get CKA Voucher](https://teckbootcamps.com/go/cka-exam-2024/) |
+| Kubernetes CKS Voucher              | ~$395~            | **$256.75**          | $138.25         | [Get CKS Voucher](https://teckbootcamps.com/go/cks-exam-2024/) |
+| Kubernetes KCNA                     | ~$250~            | **$162.50**          | $87.50          | [Get KCNA Voucher](https://shrsl.com/4nfid) |
+| Kubernetes KCSA                     | ~$250~            | **$162.50**          | $87.50          | [Get KCSA Voucher](https://shrsl.com/4nfjq) |
+| ISTIO Certified Associate           | ~$250~            | **$162.50**          | $87.50          | [Get ISTIO Voucher](https://shrsl.com/4nfju) |
+| CKA + CKS Bundle                    | ~$725~            | **$471.25**          | $253.75         | [Get CKA + CKS Bundle](https://teckbootcamps.com/go/kube-promo-bundle/) |
+| CKA + CKAD + CKS Bundle             | ~$1095~           | **$711.75**          | $383.25         | [Get Full Bundle](https://teckbootcamps.com/go/kube-promo-k8s-bundle/) |
+| kubestronaut (KCNA + KCSA + CKA + CKAD + CKS) | ~$1495~           | **$971.75**          | $523.25         | [Get Complete Bundle](https://teckbootcamps.com/go/kube-promo-kubestronaut/) |
+| KCNA + CKA Bundle                   | ~$595~            | **$386.75**          | $208.25         | [Get KCNA + CKA Bundle](https://teckbootcamps.com/go/kube-promo-kcka-bundle/) |
+| KCSA + CKS Exam Bundle              | ~$595~            | **$386.75**          | $208.25         | [Get KCSA + CKS Bundle](https://teckbootcamps.com/go/kube-promo-kcsa-cks/) |
+| KCNA + KCSA Exam Bundle             | ~$425~            | **$276.25**          | $148.75         | [Get KCNA + KCSA Bundle](https://teckbootcamps.com/go/kube-promo-kcna-kcsa/) |
+
 
 ###  [UP to 60% OFF ] CYBER MONDAY DEALS at the Linux Foundation ! Offer valid from Dec 2, 2024 - Dec 11, 2024 
 > Important Note: This is the **MOST exceptional offer** you'll receive from the Linux Foundation this year!
