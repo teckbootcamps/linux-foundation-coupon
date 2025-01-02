@@ -1,8 +1,8 @@
-# [80 % OFF] Linux Foundation Coupons For December 2024
+# [80 % OFF] Linux Foundation Coupons For January 2025
 
 Looking for the latest Linux Foundation coupons codes? 
 
-In this page you will get CKA , CKAD and CKS discount code for 2024 but also other Linux Foundation courses and certifications .
+In this page you will get CKA , CKAD and CKS discount code for 2025 but also other Linux Foundation courses and certifications .
 
 As a certified CKAD, CKA, CKS professional, I am committed to assisting you in obtaining kubernetes exam voucher at a significantly reduced price, saving you hundreds of dollars.
 
